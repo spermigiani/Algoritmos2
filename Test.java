@@ -1,7 +1,11 @@
 public class Test {
 
     public Test(){
-        System.out.println("hola planeta!");
+        
+    }
+
+    public static void main(String[] args) {
+    	System.out.println("hola planeta!");
     }
 
 }
